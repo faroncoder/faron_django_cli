@@ -15,7 +15,6 @@ Ensure your project follows this structure for DjQuicksilver to function correct
 DjQuicksilver/
 │
 ├── app/
-│   ├── settings.py
 │   ├── sys_preload_cli.py
 │   ├── sys_switch_project.py
 │   └── sys_setup_environment.py
