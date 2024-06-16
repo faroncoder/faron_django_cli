@@ -1,8 +1,5 @@
-
-Here is a cleaned-up version of the README for DjQuicksilver:
-
-README - DjQuicksilver
 DjQuicksilver
+
 DjQuicksilver is a CLI tool designed to provide a convenient and organized way to manage your Django projects. It automates various tasks, such as creating new apps, updating configurations, and dynamically loading commands. The tool uses click for command-line interfaces and follows a structured approach for managing commands and configurations.
 
 Features
